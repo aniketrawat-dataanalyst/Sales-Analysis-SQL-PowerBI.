@@ -1,0 +1,5 @@
+Customer_ID,Name,Age,Gender,Income_Level,Customer_Segment
+C2001,John D,32,Male,55000,Gold
+C2002,Sarah M,28,Female,75000,Platinum
+C2003,David L,40,Male,65000,Silver
+C2004,Emily R,35,Female,80000,Platinum

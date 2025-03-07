@@ -1,0 +1,5 @@
+Product_ID,Category,Sub_Category,Cost_Price,Selling_Price
+P1001,Electronics,Mobile,15.0,20.0
+P1002,Fashion,Shoes,18.0,25.0
+P1003,Home Appliances,Microwave,50.0,75.0
+P1004,Fashion,Handbag,20.0,25.0
